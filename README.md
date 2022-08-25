@@ -3,4 +3,6 @@
 - 👀 Eu estou interessada em programar novas linguagens.
 - 🌱 Estou aprendendo a programar recentemente a linguagem JavaScript e Scratch
 
-https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+
+![Snake animation](https://github.com/Analuiza143/Analuiza143/blob/output/github-contribution-grid-snake.svg)
