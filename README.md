@@ -1,3 +1,4 @@
+🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤
 - 👋 Olá meu nome é @AnaLuiza143
 - :+1: Meu email de contato é ana.przybychewski.monteiro@escola.pr.gov.br
 - 👀 Eu estou interessada em programar novas linguagens.
@@ -8,3 +9,5 @@
 ![Snake animation](https://github.com/Analuiza143/Analuiza143/blob/output/github-contribution-grid-snake.svg)
 
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤
